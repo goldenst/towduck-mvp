@@ -1,0 +1,48 @@
+
+## DAMAGE
+id: int
+driver: int forginkey
+date_of_incident: date
+call_num: int
+customer: int forginkey
+vehicle
+damage_desc
+status
+cost
+date_resolved
+notes
+is_open : bool : TRUE
+images1: str
+image2: str
+image3
+image4
+image5
+image6
+image7
+image8
+
+
+
+
+##DRIVER
+id
+name
+address
+citystate
+zip
+cell
+cdl
+er_contact
+er_number
+
+
+## CUSTOMER
+id
+name
+address
+city
+state
+zip
+email
+cell
+
